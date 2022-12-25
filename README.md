@@ -44,5 +44,6 @@ An enthusiastic web dev learner. Also a great weeb and loves to play almost all 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.comuser=zorodoescoding&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
