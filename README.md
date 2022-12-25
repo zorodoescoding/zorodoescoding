@@ -40,5 +40,5 @@ An enthusiastic web dev learner. Also a great weeb and loves to play almost all 
 :fire:  My Stats
 <hr>
 <div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zorodoescoding)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zorodoescoding&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
